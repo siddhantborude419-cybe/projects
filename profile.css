@@ -1,0 +1,44 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.page{
+    background-color:rgb(163, 134, 134);
+    height: 400px;
+    width: 350px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    border-radius: 30px;
+    
+
+.middle img{
+
+    position: relative;
+    top: 50px;
+    left: 30%;
+    border-radius: 50%;
+}
+.middle h2
+{
+    position: relative;
+    left: 20%;
+    top: 30px;
+}
+.middle p{
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.butten{
+    background-color: rgba(69, 159, 228, 0.832);
+    height: 30px;
+    width: 150px;
+    position: relative;
+    left:30% ;
+    top: 35px;
+    
+
+
+}
